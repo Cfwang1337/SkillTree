@@ -1,0 +1,5 @@
+*/venv
+*.csv
+*.html
+*.pyc
+*DS_STORE
